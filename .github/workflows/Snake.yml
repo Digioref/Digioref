@@ -14,7 +14,7 @@ on:
       - main
 
 permissions:
- - write
+  contents: write
 
 jobs:
   generate:
