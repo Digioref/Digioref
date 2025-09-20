@@ -13,10 +13,15 @@
 <br>
 
 <div align="center">
-    <img src="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2Fy5VkM4Hk8NsswVPgE6Qd6ZgJwCvRvwzCYDvRBxWZRJI.gif%3Fauto%3Dwebp%26s%3Dcda64ce4c1b12a44b5859e937970d1dcbe5a3a1e" width="600px">
+    <img src="Images/y5VkM4Hk8NsswVPgE6Qd6ZgJwCvRvwzCYDvRBxWZRJI.gif" width="400px">
 </div>
 
 <br>
+
+<div align="center">
+<h1> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+</h1>
+</div>
 <!--
 **Digioref/Digioref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
