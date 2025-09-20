@@ -6,6 +6,7 @@
 
 <br>
 
+
 <div align="center">
     <img src="Images/07-22-21-420_512.webp" width="350px">
 </div>
@@ -157,9 +158,60 @@
     </p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center" width="100">
+    <h1><img src="Images/3d.gif" width="35"> <b>3D Contributions</b> <img src="Images/3d.gif" width="35"></h1>
+</div>    
+
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center" width="100">
+    <h1><img src="Images/snakes.gif" width="35"> <b>Snake</b> <img src="Images/snakes.gif" width="35"></h1>
+</div>
+
+<div align="center">
+  <br>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Digioref/Digioref/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="2000"/>
+  
+  <br/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align=center>
+        <img src="Images/loading.gif" alt="Updating AI" height="120">
+        <h3>Updating...</h3>
+ </div>
+<hr>
+<div align=center>
+<div align="center">
+  <img src="Images/thinking.gif" />
+</div>
+<br>
+<div align="center">
+  <b><i>"I visualise a time when we will be to robots what dogs are to humans, and I’m rooting for the machines." - Claude Shannon</i></b>
+</div>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align=center>
+    <h1><b>References</b></h1>
+</div>
+
+For more details about my references and tools, check out [REFERENCE.md](REFERENCE.md).
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<div align="center">
+    <a href="https://github.com/kawarimidoll/typograssy">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Thanks%20for%20visiting%20&l0=none&l1=00f5ff&l2=00d4ff&l3=7a00ff&l4=0d0221&bg=none&frame=none&speed=100&comment=">
+    </a>
+</div>
 
 
 <!--
