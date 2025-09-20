@@ -109,6 +109,7 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg' width="100"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg' width="100"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg' width="100"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg' width="100"/>
 
   </div>
 </div>
@@ -121,20 +122,23 @@
     <p align = "center">
         <a href="https://github-readme-stats.vercel.app">
             <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Digioref&show_icons=true&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&border_radius=15">
-        <a href="https://git.io/streak-stats">
-            <img src="https://streak-stats.demolab.com?user=Digioref&theme=dark" alt="GitHub Streak" />
         </a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-amber-delta.vercel.app?user=Digioref&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Digioref&theme=radical&row=4&column=4">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digioref&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%">
+            <img width="50%" align="left" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Digioref&theme=aura&column=4&row=4&margin-w=5&margin-h=5&no-frame=true&colors=00f5ff,00d4ff,7a00ff,0d0221">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digioref&hide_border=true&layout=compact&langs_count=6&bg_color=0d0221&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff" align="right" width="41%">
         </a>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Digioref&theme=redical">
+            <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Digioref&theme=react-dark">
         </a>
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digioref&theme=2077">
+            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digioref&theme=tokyonight">
+        </a>
     </p>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--
 **Digioref/Digioref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
