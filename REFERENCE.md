@@ -5,7 +5,7 @@
 
 ## Badges
 - [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-artificial-intelligence-)
-- [Devicons](https://github.com/devicons/devicon.git)ù
+- [Devicons](https://github.com/devicons/devicon.git)
 - [skill-icons](https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg)
 - [iconic](https://github.com/YuheshPandian/ICONIC.git)
 - [icons](https://github.com/syvixor/skills-icons.git)
