@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJhbjBueXpjMXMyanZ1b3RnOXJ4OGlhcHlrMTd4emJva2RoODNnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dshToDTjMXxuKyYW1N/giphy.gif" width="600px">
+    <img src="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2Fy5VkM4Hk8NsswVPgE6Qd6ZgJwCvRvwzCYDvRBxWZRJI.gif%3Fauto%3Dwebp%26s%3Dcda64ce4c1b12a44b5859e937970d1dcbe5a3a1e" width="600px">
 </div>
 
 <br>
