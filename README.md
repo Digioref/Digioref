@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-    <img src="Images/y5VkM4Hk8NsswVPgE6Qd6ZgJwCvRvwzCYDvRBxWZRJI.gif" width="400px">
+    <img src="Images/07-22-21-420_512.webp" width="400px">
 </div>
 
 <br>
