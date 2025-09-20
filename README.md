@@ -44,6 +44,89 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h1>
+
+  <!-- Languages -->
+  <br>
+  <h3>Languages</h3>
+  <hr>
+  <div class="animated-frame">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg' width="90"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg' width="90"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg' width="90"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' width="90"/>
+    <img src='Images/sql.svg' width="180"/>
+    <img src='Images/vhdl.png' width="90"/>  
+    
+  </div>
+
+  <!-- Frameworks & Libraries -->
+  <br>
+  <h3>Frameworks & Libraries</h3>
+  <hr>
+  <div class="animated-frame">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg' width="120"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg' width="120"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg' width="120"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg' width="120"/>
+    <img src='https://github.com/syvixor/skills-icons/blob/main/icons/huggingface.svg' width="120"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg' width="120"/>
+
+   
+  </div>
+
+  <!-- Databases -->
+  <br>
+  <h3>Databases</h3>
+  <hr>
+  <div class="animated-frame">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg' width="120"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg' width="120"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg' width="120"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg' width="120"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg' width="120"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg' width="120"/>
+
+  </div>
+
+  <!-- Tools & Platforms -->
+  <br>
+  <h3>Tools & Platforms</h3>
+  <hr>
+  <div class="animated-frame">
+    <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+    <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+    <a href="#"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
+    <a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Hugging_Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+    <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"></a>
+    <a href="#"><img src="https://img.shields.io/badge/HEDKORU-4A90E2?style=for-the-badge&logo=hedkoru&logoColor=white" alt="HEDKORU"></a>
+  </div>
+
+  <!-- Testing -->
+  <br>
+  <h3>Testing</h3>
+  <hr>
+  <div class="animated-frame">
+    <a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Unittest-323330?style=for-the-badge&logo=python&logoColor=white" alt="Unittest"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
+  </div>
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--
 **Digioref/Digioref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
