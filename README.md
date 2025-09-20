@@ -36,9 +36,9 @@
             <li>✔ Currently learning: <b>Generative AI, NLP, AI, Robotics, Deep Learning, Machine Learning</b> </li>
             <li>✔ Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) INGEGNERIA INFORMATICA at Polytechnic of Milan</li>
             <li>✔ Student: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - ARTIFICIAL INTELLIGENCE at Polytechnic of Milan</li>
-            <li>✔ My <a href="My_Personal_CV.pdf">CV</a></li>
             <li>✔ How to reach me: <a href="mailto:digiorefrancesco10@gmail.com">digiorefrancesco10@gmail.com</a> or <a href="mailto:francesco.digiore@mail.polimi.it">francesco.digiore@mail.polimi.it</a></li>
             <li>✔ Hobbies: sports, videogames, TV series, films, hang out with friends</li>
+            <li>✔ Contact me in private for my <b>CV</b> </li>
         </ul>
     </div>
 </div>
