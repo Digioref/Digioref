@@ -121,17 +121,35 @@
 <div align="center" width="100">
   <h1><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width ="35"> <b>Repositories</b> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width ="35"></h1> 
     <p align = "center">
-        <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&theme=tokyonight&hide_border=true&repo=OLA-Pricing">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&theme=tokyonight&hide_border=true&repo=AN2DL">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&theme=tokyonight&hide_border=true&repo=RL-Project">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&theme=tokyonight&hide_border=true&repo=API-Project">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&theme=tokyonight&hide_border=true&repo=Robotics-Project">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&theme=tokyonight&hide_border=true&repo=NLP-Project">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&theme=tokyonight&hide_border=true&repo=SMBUD-Project">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&theme=tokyonight&hide_border=true&repo=IS23-AM40">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&theme=tokyonight&hide_border=true&repo=RecSys-Challenge">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&theme=tokyonight&hide_border=true&repo=Digioref">
+        <a href="https://github.com/Digioref/OLA-Pricing">
+            <img width="49%" alt="OLA-Pricing" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=OLA-Pricing&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true" />
+        </a>
+        <a href="https://github.com/Digioref/AN2DL">
+            <img width="49%" alt="AN2DL" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=AN2DL&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true" />
+        </a>
+        <a href="https://github.com/Digioref/RL-Project">
+            <img width="49%" alt="RL-Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=RL-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true" />
+        </a>
+        <a href="https://github.com/Digioref/API-Project">
+            <img width="49%" alt="API-Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=API-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true" />
+        </a>
+        <a href="https://github.com/Digioref/Robotics-Project">
+            <img width="49%" alt="Robotics-Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=Robotics-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true" />
+        </a>
+        <a href="https://github.com/Digioref/NLP-Project">
+            <img width="49%" alt="NLP-Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=NLP-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true" />
+        </a>
+        <a href="https://github.com/Digioref/SMBUD-Project">
+            <img width="49%" alt="SMBUD-Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=SMBUD-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true" />
+        </a>
+        <a href="https://github.com/Digioref/IS23-AM40">
+            <img width="49%" alt="IS23-AM40" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=IS23-AM40&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true" />
+        </a>
+        <a href="https://github.com/Digioref/RecSys-Challenge">
+            <img width="49%" alt="RecSys-Challenge" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=RecSys-Challenge&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true" />
+        </a>
+        <a href="https://github.com/Digioref/Digioref">
+            <img width="49%" alt="Digioref" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=Digioref&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true" />
         </a>
     </p>
 </div>
