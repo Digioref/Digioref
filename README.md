@@ -125,7 +125,7 @@
             <img width="49%" alt="OLA-Pricing" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=OLA-Pricing&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
         <a href="https://github.com/Digioref/AN2DL">
-            <img width="49%" alt="AN2DL" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=AN2DL&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800&v=1" />
+            <img width="49%" alt="AN2DL" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=AN2DL&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
         <a href="https://github.com/Digioref/RL-Project">
             <img width="49%" alt="RL-Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=RL-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
@@ -160,7 +160,7 @@
   <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Statistics</b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h1> 
     <p align = "center">
         <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Digioref&theme=tokyonight&hide_border=true">
+            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Digioref&theme=tokyonight&hide_border=true&v=1">
         </a>
         <a href="https://git.io/streak-stats"><img width="50%" src="https://github-readme-streak-stats-amber-delta.vercel.app?user=Digioref&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak"></a>
         <a href="https://https://github-profile-trophy.vercel.app">
