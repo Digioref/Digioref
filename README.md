@@ -160,7 +160,7 @@
   <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Statistics</b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h1> 
     <p align = "center">
         <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Digioref&theme=tokyonight&hide_border=true" width="35">
+            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Digioref&theme=tokyonight&hide_border=true" width="25">
         </a>
         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-amber-delta.vercel.app?user=Digioref&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak"></a>
         <a href="https://https://github-profile-trophy.vercel.app">
