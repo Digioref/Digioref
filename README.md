@@ -148,9 +148,6 @@
         <a href="https://github.com/Digioref/RecSys-Challenge">
             <img width="49%" alt="RecSys-Challenge" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=RecSys-Challenge&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
-        <a href="https://github.com/Digioref/Digioref">
-            <img width="49%" alt="Digioref" src="https://github-readme-stats.vercel.app/api/pin/?username=Digioref&repo=Digioref&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
-        </a>
     </p>
 </div>
 
