@@ -164,9 +164,9 @@
         </a>
         <a href="https://https://github-profile-trophy.vercel.app/api">
             <img width="50%" align="left" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Digioref&theme=aura&column=4&row=4&margin-w=5&margin-h=5&no-frame=true&colors=00f5ff,00d4ff,7a00ff,0d0221">
-            <img src="https://github-readme-stats-gray-iota-48.vercel.app/api/top-langs/?username=Digioref&hide_border=true&layout=compact&langs_count=6&bg_color=0d0221&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff" align="right" width="41%">
+            <img src="https://github-readme-stats-gray-iota-48.vercel.app/api/top-langs/?username=Digioref&hide_border=true&layout=compact&langs_count=6&bg_color=0d0221&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff" align="right" width="44%">
         </a>
-        <a href="https://github-readme-activity-graph.vercel.app">
+        <a href="https://github-readme-activity-graph.cyclic.app">
             <img width="120%" alt="Stats" src="https://github-readme-activity-graph-tawny.vercel.app/graph?username=Digioref&theme=react-dark">
         </a>
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
