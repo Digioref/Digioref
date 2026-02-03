@@ -58,7 +58,9 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg' width="90"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' width="90"/>
     <img src='Images/sql.svg' width="180"/>
-    <img src='Images/vhdl.png' width="90"/>  
+    <img src='Images/vhdl.png' width="90"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg' width="90"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg' width="90"/>  
     
   </div>
 
@@ -74,6 +76,8 @@
     <img src='https://github.com/syvixor/skills-icons/blob/main/icons/huggingface.svg' width="130"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg' width="130"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg' width="130"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg' width="130"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/DENO-Light.svg' width='130'/>
    
   </div>
 
@@ -88,6 +92,7 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg' width="100"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg' width="100"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg' width="100"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg' width="100"/>
 
   </div>
 
@@ -111,6 +116,10 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg' width="100"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg' width="100"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg' width="100"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg' width="100"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Light.svg' width="100"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg' width="100"/>  
+  </div>
 
   </div>
 </div>
