@@ -76,8 +76,8 @@
     <img src='https://github.com/syvixor/skills-icons/blob/main/icons/huggingface.svg' width="130"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg' width="130"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg' width="130"/>
-    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg' width="130"/>
-    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/DENO-Light.svg' width='130'/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg' width="130"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/DENO-Dark.svg' width='130'/>
    
   </div>
 
