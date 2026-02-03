@@ -92,7 +92,7 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg' width="100"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg' width="100"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg' width="100"/>
-    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg' width="100"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg' width="100"/>
 
   </div>
 
@@ -117,8 +117,8 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg' width="100"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg' width="100"/>
     <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg' width="100"/>
-    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Light.svg' width="100"/>
-    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg' width="100"/>  
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg' width="100"/>
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg' width="100"/>  
   </div>
 
   </div>
