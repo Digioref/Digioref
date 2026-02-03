@@ -60,7 +60,7 @@
     <img src='Images/sql.svg' width="180"/>
     <img src='Images/vhdl.png' width="90"/>
     <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg' width="90"/>
-    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg' width="90"/>  
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg' width="90"/>  
     
   </div>
 
