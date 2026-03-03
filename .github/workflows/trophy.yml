@@ -11,14 +11,10 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-trophy
     steps:
-      - uses: actions/checkout@v5
-      - uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          target_branch: trophy
-          token: ${{ secrets.GITHUB_TOKEN }}
           username: ${{ github.repository_owner }}
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
