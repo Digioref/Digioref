@@ -2,7 +2,7 @@ name: Generate trophy
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 19 * * *"
   workflow_dispatch:
 
 permissions:
@@ -23,18 +23,12 @@ jobs:
           output_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Create the folder and move the file into it
-      - name: Move file to Trophy folder
-        run: |
-          mkdir -p Trophy
-          mv trophy.svg Trophy/trophy.svg
-
       # Step 4: Commit the file from its new location
       - name: Commit and Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add Trophy/trophy.svg
-          git commit -m "Update trophy.svg" || echo "No changes to commit"
-          git pull --rebase origin main
-          git push origin main
+          git add trophy.svg
+          if git commit -m "generated"; then
+            git push
+          fi
