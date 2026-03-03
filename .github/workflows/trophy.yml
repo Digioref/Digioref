@@ -1,7 +1,7 @@
 name: Generate trophy
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -12,9 +12,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Create the folder (mkdir -p ensures it doesn't fail if it already exists)
+      - name: Create Trophy folder
+        run: mkdir -p Trophy
+
+      # Step 3: Generate the trophy file inside the folder
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: trophy.svg
+          output_path: Trophy/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 4: Commit the file inside the folder
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add Trophy/trophy.svg
+          git commit -m "Update trophy.svg" || echo "No changes to commit"
+          git push
