@@ -178,9 +178,7 @@
         <a href="https://github-readme-activity-graph.cyclic.app">
             <img width="120%" alt="Stats" src="https://github-readme-activity-graph-beige.vercel.app/graph?username=Digioref&theme=react-dark">
         </a>
-        <a href="https://https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digioref&theme=tokyonight">
-        </a>
+        ![](./profile-summary-card-output/tokyonight/0-profile-details.svg)
     </p>
 </div>
 
