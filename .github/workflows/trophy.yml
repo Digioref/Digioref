@@ -36,4 +36,5 @@ jobs:
           git config user.email github-actions@github.com
           git add Trophy/trophy.svg
           git commit -m "Update trophy.svg" || echo "No changes to commit"
-          git push
+          git pull --rebase origin main
+          git push origin main
