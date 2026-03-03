@@ -12,7 +12,6 @@ jobs:
     name: generate-github-cards
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -20,3 +19,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.Profile-summary-cards-token}}
         with:
           USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
+        
