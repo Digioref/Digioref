@@ -19,4 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
         with:
-          output_path: Trophy/trophy.svg
+          file: Trophy/trophy.svg
