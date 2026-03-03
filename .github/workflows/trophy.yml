@@ -19,6 +19,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
         with:
-          file: Trophy/trophy.svg
+          file: ./Trophy/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           username: ${{ github.repository_owner }}
