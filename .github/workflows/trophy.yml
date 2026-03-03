@@ -15,10 +15,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Create the folder (mkdir -p ensures it doesn't fail if it already exists)
-      - name: Create Trophy folder
-        run: mkdir -p Trophy
-
       # Step 3: Generate the trophy file inside the folder
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
