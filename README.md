@@ -172,6 +172,7 @@
             <img width="50%" src="https://github-readme-streak-stats-amber-delta.vercel.app?user=Digioref&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak">
         </a>
         <a href="https://github-profile-trophy-winning.vercel.app">
+            <im width="50%" align="left" src="https://github.com/Digioref/Digioref/blob/main/profile-summary-card-output/tokyonight/4-productive-time.svg">
             <img src="https://github-readme-stats-gray-iota-48.vercel.app/api/top-langs/?username=Digioref&hide_border=true&layout=compact&langs_count=6&bg_color=0d0221&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff" align="right" width="44%">
         </a>
         <img alt="Trophy" src="https://github.com/Digioref/Digioref/blob/main/trophy.svg">
