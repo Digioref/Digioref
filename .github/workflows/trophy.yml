@@ -22,6 +22,7 @@ jobs:
           username: ${{ github.repository_owner }}
           output_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          theme: aura
 
       # Step 4: Commit the file from its new location
       - name: Commit and Push
