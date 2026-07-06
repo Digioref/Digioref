@@ -157,6 +157,9 @@
         <a href="https://github.com/Digioref/RecSys-Challenge">
             <img width="49%" alt="RecSys-Challenge" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=RecSys-Challenge&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
+        <a href="https://github.com/Digioref/Best_Bike_Paths">
+            <img width="49%" alt="SoftEng2-Project-BBP" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=RecSys-Challenge&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        </a>
     </p>
 </div>
 
