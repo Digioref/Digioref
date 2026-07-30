@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.digioref.deno.net/api?scheme=github&text=Hello%20world!">
+      <img alt="typograssy" src="./Images/typograssy.svg">
     </a>
 </div>
 
