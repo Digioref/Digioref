@@ -20,8 +20,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          file: trophy.svg                    # was output_path
+          token: ${{ secrets.TROPHY_TOKEN }}  # was GITHUB_TOKEN
           theme: aura
 
       # Step 4: Commit the file from its new location
