@@ -34,13 +34,20 @@
         <ul style="list-style-type: none; padding: 0;">
             <li>✔ Call me: <b>He/His</b> </li>
             <li>✔ Currently learning: <b>Generative AI, NLP, AI, Robotics, Deep Learning, Machine Learning</b> </li>
-            <li>✔ Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) INGEGNERIA INFORMATICA at Polytechnic of Milan</li>
-            <li>✔ Student: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - ARTIFICIAL INTELLIGENCE at Polytechnic of Milan</li>
+            <li>✔ BSc Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) INGEGNERIA INFORMATICA at Polytechnic of Milan</li>
+            <li>✔ MSc Degree: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - ARTIFICIAL INTELLIGENCE at Polytechnic of Milan</li>
             <li>✔ How to reach me: <a href="mailto:digiorefrancesco10@gmail.com">digiorefrancesco10@gmail.com</a> or <a href="mailto:francesco.digiore@mail.polimi.it">francesco.digiore@mail.polimi.it</a></li>
-            <li>✔ Hobbies: sports, videogames, TV series, films, hang out with friends</li>
+            <li>✔ Hobbies: sports, video games, TV series, films, hanging out with friends</li>
             <li>✔ Contact me in private for my <b>CV</b> </li>
         </ul>
     </div>
+</div>
+
+<br clear="right">
+<div align="center">
+  <a href="https://www.linkedin.com/in/Digioref" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45px" alt="LinkedIn">
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
