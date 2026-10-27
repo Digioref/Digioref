@@ -46,7 +46,7 @@
 <br clear="right">
 <div align="center">
   <a href="https://www.linkedin.com/in/Digioref" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50px" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=7a00ff" alt="LinkedIn">
 </a>
 </div>
 
