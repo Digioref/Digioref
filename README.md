@@ -45,7 +45,7 @@
 
 <br clear="right">
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+  <a href="https://www.linkedin.com/in/Digioref" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=320&lines=Let's+connect+on+LinkedIn!" alt="Let's connect on LinkedIn">
   <br>
   <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn">
