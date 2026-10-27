@@ -43,11 +43,12 @@
     </div>
 </div>
 
-<a href="https://www.linkedin.com/in/Digioref" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=320&lines=Let's+connect+on+LinkedIn!" alt="Let's connect on LinkedIn">
-  <br>
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn">
+<br clear="right">
+<div align="center">
+  <a href="https://www.linkedin.com/in/Digioref" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50px" alt="LinkedIn">
 </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
