@@ -22,7 +22,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Francesco Di Giore, an <b>M.Sc. graduate</b> in Computer Science and Engineering -- Artificial Intelligence from <a href="https://www.polimi.it/"> <b>Politecnico di Milano</b>, Italy</a>.<br>
+    Hello, I am Francesco Di Giore, an <b>M.Sc. graduate</b> in Computer Science and Engineering -- Artificial Intelligence from <a href="https://www.polimi.it/"> <b>Politecnico di Milano</b></a>.<br>
     I’m passionate about <b>Artificial Intelligence</b> <img src="Images/ai_3.gif" width="30px">, constantly exploring how machines can <b>learn, adapt, and enhance human creativity</b>. <img src="Images/brain.gif" width="50px">    
       My goal is to build <b>innovative AI systems</b> that make life smarter and more meaningful.
 </em>
