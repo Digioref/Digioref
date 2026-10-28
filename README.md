@@ -22,9 +22,9 @@
 
 <p align="center">
   <em>
-    Hello, I am Francesco Di Giore, a <b>Master's student</b> from the <a href="https://www.polimi.it/"> <b>Polytechnic of Milan</b>, Italy</a>.<br>
+    Hello, I am Francesco Di Giore, an <b>M.Sc. graduate</b> in Computer Science and Engineering -- Artificial Intelligence from <a href="https://www.polimi.it/"> <b>Politecnico di Milano</b>, Italy</a>.<br>
     I’m passionate about <b>Artificial Intelligence</b> <img src="Images/ai_3.gif" width="30px">, constantly exploring how machines can <b>learn, adapt, and enhance human creativity</b>. <img src="Images/brain.gif" width="50px">    
-      My goal is to contribute to building <b>innovative AI systems</b> that make life smarter and more meaningful.
+      My goal is to build <b>innovative AI systems</b> that make life smarter and more meaningful.
 </em>
 
 <hr>
@@ -32,10 +32,11 @@
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;" align="left">
         <ul style="list-style-type: none; padding: 0;">
-            <li>✔ Call me: <b>He/His</b> </li>
+            <li>✔ Call me: <b>He/Him</b> </li>
             <li>✔ Currently learning: <b>Generative AI, NLP, AI, Robotics, Deep Learning, Machine Learning</b> </li>
-            <li>✔ BSc Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) INGEGNERIA INFORMATICA at Polytechnic of Milan</li>
-            <li>✔ MSc Degree: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - ARTIFICIAL INTELLIGENCE at Polytechnic of Milan</li>
+            <li>✔ BSc Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) INGEGNERIA INFORMATICA at Politecnico di Milano</li>
+            <li>✔ MSc Degree: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - ARTIFICIAL INTELLIGENCE at Politecnico di Milano</li>
+            <li>✔ Research interests: <b>AI for healthcare, LLMs & Vision-Language Models, LLM orchestration</b></li>
             <li>✔ How to reach me: <a href="mailto:digiorefrancesco10@gmail.com">digiorefrancesco10@gmail.com</a> or <a href="mailto:francesco.digiore@mail.polimi.it">francesco.digiore@mail.polimi.it</a></li>
             <li>✔ Hobbies: sports, video games, TV series, films, hanging out with friends</li>
             <li>✔ Contact me in private for my <b>CV</b> </li>
@@ -43,13 +44,11 @@
     </div>
 </div>
 
-<br clear="right">
-<div align="center">
-  <a href="https://www.linkedin.com/in/Digioref" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=320&lines=Let's+connect+on+LinkedIn!" alt="Let's connect on LinkedIn">
-  <br>
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/Digioref"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://huggingface.co/Exodus28"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="mailto:digiorefrancesco10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -137,35 +136,35 @@
 <div align="center" width="100">
   <h1><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width ="35"> <b>Repositories</b> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width ="35"></h1> 
     <p align = "center">
+        <a href="https://github.com/Digioref/AN2DL">
+            <img width="49%" alt="AN2DL" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=AN2DL&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        </a>
+         <a href="https://github.com/Digioref/NLP-Project">
+            <img width="49%" alt="NLP-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=NLP-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        </a>
         <a href="https://github.com/Digioref/OLA-Pricing">
             <img width="49%" alt="OLA-Pricing" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=OLA-Pricing&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
-        <a href="https://github.com/Digioref/AN2DL">
-            <img width="49%" alt="AN2DL" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=AN2DL&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        <a href="https://github.com/Digioref/RecSys-Challenge">
+            <img width="49%" alt="RecSys-Challenge" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=RecSys-Challenge&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        </a>
+        <a href="https://github.com/Digioref/Robotics-Project">
+            <img width="49%" alt="Robotics-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=Robotics-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        </a>
+        <a href="https://github.com/Digioref/SMBUD-Project">
+            <img width="49%" alt="SMBUD-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=SMBUD-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        </a>
+         <a href="https://github.com/Digioref/Best_Bike_Paths">
+            <img width="49%" alt="SoftEng2-Project-BBP" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=Best_Bike_Paths&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        </a>
+         <a href="https://github.com/Digioref/IS23-AM40">
+            <img width="49%" alt="IS23-AM40" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=IS23-AM40&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
         <a href="https://github.com/Digioref/RL-Project">
             <img width="49%" alt="RL-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=RL-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
         <a href="https://github.com/Digioref/API-Project">
             <img width="49%" alt="API-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=API-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
-        </a>
-        <a href="https://github.com/Digioref/Robotics-Project">
-            <img width="49%" alt="Robotics-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=Robotics-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
-        </a>
-        <a href="https://github.com/Digioref/NLP-Project">
-            <img width="49%" alt="NLP-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=NLP-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
-        </a>
-        <a href="https://github.com/Digioref/SMBUD-Project">
-            <img width="49%" alt="SMBUD-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=SMBUD-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
-        </a>
-        <a href="https://github.com/Digioref/IS23-AM40">
-            <img width="49%" alt="IS23-AM40" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=IS23-AM40&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
-        </a>
-        <a href="https://github.com/Digioref/RecSys-Challenge">
-            <img width="49%" alt="RecSys-Challenge" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=RecSys-Challenge&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
-        </a>
-        <a href="https://github.com/Digioref/Best_Bike_Paths">
-            <img width="49%" alt="SoftEng2-Project-BBP" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=Best_Bike_Paths&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
     </p>
 </div>
@@ -227,7 +226,7 @@
 </div>
 <br>
 <div align="center">
-  <b><i>"I visualise a time when we will be to robots what dogs are to humans, and I’m rooting for the machines." - Claude Shannon</i></b>
+  <b><i>"The best way to predict the future is to invent it." - Alan Kay</i></b>
 </div>
 </p>
 
