@@ -45,6 +45,7 @@
 </div>
 
 <p align="center">
+  <a href="https://digioref.github.io"><img src="https://img.shields.io/badge/Website-0d0221?style=for-the-badge&logo=googlechrome&logoColor=00f5ff"/></a>
   <a href="https://www.linkedin.com/in/Digioref"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://huggingface.co/Exodus28"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
   <a href="mailto:digiorefrancesco10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
